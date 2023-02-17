@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello all
  this is gangaraju
+=======
+feferfe
+>>>>>>> parent of 866cf77 (Update hello.txt)
